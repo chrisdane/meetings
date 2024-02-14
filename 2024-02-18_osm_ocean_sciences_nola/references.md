@@ -1,0 +1,14 @@
+DeVries, 2022: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL096018
+European Union-Copernicus Marine Service, 2022: https://data.marine.copernicus.eu/product/OCEANCOLOUR_GLO_BGC_L4_MY_009_104/description
+Fay et al., 2021: https://essd.copernicus.org/articles/13/4693/2021/
+Friedlingstein et al., 2023: https://essd.copernicus.org/articles/15/5301/2023/
+Good et al., 2013: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013JC009067
+Gregor and Fay, 2021: https://zenodo.org/records/5482547
+Gregor et al., 2019: https://gmd.copernicus.org/articles/12/5113/2019/gmd-12-5113-2019-discussion.html
+Gruber et al., 2023: https://www.nature.com/articles/s43017-022-00381-x
+Hauck et al., 2013: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013GB004600 
+Huang et al., 2021: https://journals.ametsoc.org/view/journals/clim/34/8/JCLI-D-20-0166.1.xml?alreadyAuthRedirecting
+McKinley et al., 2017: https://www.annualreviews.org/doi/abs/10.1146/annurev-marine-010816-060529
+Rayner 2003: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2002JD002670
+Sathyendranath et al., 2019: https://www.mdpi.com/1424-8220/19/19/4285
+Schourup-Kristensen et al., 2014: https://gmd.copernicus.org/articles/7/2769/2014/
