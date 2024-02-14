@@ -10,5 +10,6 @@
 - Huang et al., 2021: https://journals.ametsoc.org/view/journals/clim/34/8/JCLI-D-20-0166.1.xml?alreadyAuthRedirecting
 - McKinley et al., 2017: https://www.annualreviews.org/doi/abs/10.1146/annurev-marine-010816-060529
 - Rayner 2003: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2002JD002670
+- Sallée et al., 2021: https://www.nature.com/articles/s41586-021-03303-x
 - Sathyendranath et al., 2019: https://www.mdpi.com/1424-8220/19/19/4285
 - Schourup-Kristensen et al., 2014: https://gmd.copernicus.org/articles/7/2769/2014/
